@@ -1,0 +1,8 @@
+requests
+ydata_profiling
+matplotlib
+seaborn
+scikit-learn
+urllib3
+pandas
+snakemake
